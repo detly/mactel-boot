@@ -1,4 +1,9 @@
 #!/usr/bin/make -f
+export DH_VERBOSE=1
+
+# Inject dpkg-buildflags into upstream makefile without patching
+export CC:=$(CC) $(shell dpkg-buildflags --get CFLAGS)
+
 %:
 	dh $@
 
