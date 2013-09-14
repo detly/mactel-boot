@@ -1,0 +1,18 @@
+Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=48
+Name: mactel-boot
+Contact: Matthew Garrett <mjg@redhat.com>
+Source: http://www.codon.org.uk/~mjg59/mactel-boot/
+
+Files: *
+Copyright: 2011, Red Hat <mjg@redhat.com>
+License: GPL-2+
+    On Debian systems the full text of the GNU General Public
+    License can be found in the `/usr/share/common-licenses/GPL-2'
+    file.
+
+Files: debian/*
+Copyright: 2013, Jason Heeris <jason.heeris@gmail.com>
+License: GPL-3+
+    On Debian systems the full text of the GNU General Public
+    License can be found in the `/usr/share/common-licenses/GPL-3'
+    file.

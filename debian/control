@@ -1,0 +1,13 @@
+Source: mactel-boot
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Section: admin
+Priority: optional
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 8)
+
+Package: mactel-boot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: hfs-bless utility for Intel Macs
+ Utility (hfs-bless) for adding EFI capable bootloaders to the boot firmware of
+ Intel Macs.
