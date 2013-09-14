@@ -9,5 +9,6 @@ Package: mactel-boot
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: hfs-bless utility for Intel Macs
- Utility (hfs-bless) for adding EFI capable bootloaders to the boot firmware of
- Intel Macs.
+ Contains the hfs-bless for adding EFI capable bootloaders to the boot firmware
+ of Intel Macs. This effectively tells the boot firmware where to look for
+ bootable operating systems.
