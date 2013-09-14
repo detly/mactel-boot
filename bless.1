@@ -1,0 +1,13 @@
+.TH BLESS 1
+.SH NAME
+bless \- make HFS+ filesystems bootable on EFI-based Apple hardware
+.SH SYNOPSIS
+.B bless filename
+
+.SH DESCRIPTION
+\fBbless\fR makes the file \fBfilename\fR run as the bootloader on
+HFS+ filesystems on Apple hardware when using EFI. It does not support
+setting EFI boot variables \- use \fBefibootmgr\fR for that.
+
+.SH "SEE ALSO"
+\fBmkfs.hfsplus(1)\fR, \fBefibootmgr(1)\fR
