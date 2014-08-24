@@ -1,19 +1,5 @@
-mactel-boot (0.9-3~saucy) saucy; urgency=low
+mactel-boot (0.9-1~trusty) trusty; urgency=low
 
-  * Incorporated hardening build flags
-  * Expanded package description
-  * Added proper copyright text
+  * Initial packaging for Trusty
 
- -- Jason Heeris <jason.heeris@gmail.com>  Sat, 14 Sep 2013 14:30:12 +0800
-
-mactel-boot (0.9-2~saucy) saucy; urgency=low
-
-  * Bumped version so we can have multiple distros in the PPA. 
-
- -- Jason Heeris <jason.heeris@gmail.com>  Sun, 11 Aug 2013 20:27:56 +0800
-
-mactel-boot (0.9-1) saucy; urgency=low
-
-  * Initial release.
-
- -- Jason Heeris <jason.heeris@gmail.com>  Fri, 09 Aug 2013 20:18:29 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 24 Aug 2014 22:00:00 +0800
