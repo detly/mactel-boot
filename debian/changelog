@@ -2,4 +2,4 @@ mactel-boot (0.9-1~trusty) trusty; urgency=low
 
   * Initial packaging for Trusty
 
- -- Jason Heeris <jason.heeris@gmail.com>  Thu, 27 Aug 2014 07:33:00 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Thu, 28 Aug 2014 07:33:00 +0800
