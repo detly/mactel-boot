@@ -1,5 +1,5 @@
-mactel-boot (0.9-1~trusty) trusty; urgency=low
+mactel-boot (0.9-1~utopic) utopic; urgency=medium
 
-  * Initial packaging for Trusty
+  * Initial packaging for Utopic.
 
- -- Jason Heeris <jason.heeris@gmail.com>  Thu, 28 Aug 2014 07:33:00 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Sat, 13 Dec 2014 10:23:08 +1100
