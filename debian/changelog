@@ -1,5 +1,5 @@
-mactel-boot (0.9-1~utopic) utopic; urgency=medium
+macfanctld (0.9-1~vivid) vivid; urgency=medium
 
-  * Initial packaging for Utopic.
+  * Initial packaging for Vivid.
 
- -- Jason Heeris <jason.heeris@gmail.com>  Sat, 13 Dec 2014 10:23:08 +1100
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 28 Jun 2015 13:32:37 +1000
