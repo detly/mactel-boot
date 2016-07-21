@@ -1,5 +1,5 @@
-mactel-boot (0.9-1~wily) wily; urgency=medium
+mactel-boot (0.9-1~xenial) xenial; urgency=medium
 
-  * Initial packaging for Wily.
+  * Initial packaging for Xenial.
 
- -- Jason Heeris <jason.heeris@gmail.com>  Fri, 22 Jul 2016 08:46:27 +1000
+ -- Jason Heeris <jason.heeris@gmail.com>  Fri, 22 Jul 2016 09:26:46 +1000
