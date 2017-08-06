@@ -3,7 +3,7 @@ Maintainer: Jason Heeris <jason.heeris@gmail.com>
 Section: admin
 Priority: optional
 Standards-Version: 3.9.8
-Build-Depends: debhelper (>= 8)
+Build-Depends: debhelper (>= 9)
 
 Package: mactel-boot
 Architecture: any
