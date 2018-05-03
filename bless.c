@@ -25,6 +25,7 @@
 #include <sys/ioctl.h>
 #include <sys/vfs.h>
 #include <fcntl.h>
+#include <unistd.h>
 
 #define HFSPLUS_IOC_BLESS _IO('h', 0x80)
 
